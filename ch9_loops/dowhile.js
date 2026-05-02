@@ -1,0 +1,25 @@
+
+
+console.log("I");
+console.log("Live");
+console.log("in");
+for (let i = 0; i < 5; i++) {
+  console.log(i + " " + "Barbara");
+}
+
+let i = 0;
+while ( i <= 5) {
+console.log(i + " " + "Barbara");
+     i++
+}
+do {
+  console.log(i + " " + "Barbara");
+  i++;
+} while (false);
+
+console.log("Barbara");
+console.log("NW");
+console.log("16");
+console.log("camel");
+console.log("tiger"); 
+ 
